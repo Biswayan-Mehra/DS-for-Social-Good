@@ -11,3 +11,5 @@ Taking three groups of students. In each group, students are studying for differ
 The focus area is on Quality Education.
 
 DataSet: https://github.com/Biswayan-Mehra/DS-for-Social-Good/blob/2833a5684791633c581fd0e9f6468fb95b393c55/StudentsPerformance.csv
+
+Assignment 1 - Data Visualization  and Assignment 2 - Model Building are samples for this project with each having it dataset included and colab file in it's respective repositories.
